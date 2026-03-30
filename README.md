@@ -83,10 +83,6 @@ python main.py
 - **AttributeError: module 'mediapipe' has no attribute 'solutions'**: This usually means you are running a Python version (like 3.14) that MediaPipe 0.10.x doesn't support yet. **Please use Python 3.10.**
 - **Laggy Performance**: Ensure your lighting is consistent. High-contrast backgrounds can sometimes confuse the hand tracker.
 
----
-
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 *Created with ❤️ by Niloy Jana*
