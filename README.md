@@ -22,6 +22,12 @@ A premium, interactive 3D shape simulator that uses **Computer Vision** and **Me
   - Smooth LERP-based transitions and rotations.
 
 ---
+## DEMO
+
+
+https://github.com/user-attachments/assets/3eadc67d-d311-4772-9185-8386b0169b92
+
+
 
 ## 🚀 Getting Started
 
